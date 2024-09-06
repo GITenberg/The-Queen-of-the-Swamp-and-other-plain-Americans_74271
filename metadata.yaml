@@ -1,0 +1,39 @@
+_repo: The-Queen-of-the-Swamp-and-other-plain-Americans_74271
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Catherwood, Mary Hartwell
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '2247'
+    url: http://www.gutenberg.org/2009/agents/2247
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
+description: '"These stories were originally published in the Atlantic Monthly, Harper''s
+  Bazaar, Outing, the Independent, the Delineator, the Chicago Tribune, the [...]
+  Chicago Graphic, and Lippincott''s Magazine[.]"'
+gutenberg_issued: '2024-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74271'
+language: en
+pgterms:marc904: https://archive.org/details/queenofswampothe00cathrich/page/n7/mode/2up
+pgterms:marc905: 20230630130152catherwood
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1899, pubdate 1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Ohio: The Queen of the Swamp. The stirring-off. Sweetness. Serena.
+  Rose day -- Kentucky: A Kentucky princess -- Indiana: The Fairfield poet. T''Férgore
+  -- Illinois: Beetrus. The bride of Arne Sandstrom. The Babe Jerome. The Calhoun
+  fiddler. A man from the Spanish war.'
+title: The Queen of the Swamp, and other plain Americans
+url: http://www.gutenberg.org/ebooks/74271
