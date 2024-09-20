@@ -1,5 +1,8 @@
 _repo: The-Queen-of-the-Swamp-and-other-plain-Americans_74271
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74271-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Catherwood, Mary Hartwell
@@ -11,6 +14,8 @@ creator:
 description: '"These stories were originally published in the Atlantic Monthly, Harper''s
   Bazaar, Outing, the Independent, the Delineator, the Chicago Tribune, the [...]
   Chicago Graphic, and Lippincott''s Magazine[.]"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74271#The-Queen-of-the-Swamp-and-other-plain-Americans
 gutenberg_issued: '2024-08-17'
 gutenberg_type: Text
 identifiers:
